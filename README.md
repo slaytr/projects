@@ -1,4 +1,7 @@
-XYZ Management is a project of realising a low fidelity prototype from an earlier assignment
+XYZ Management
+==============
+
+## XYZ Management is a project of realising a low fidelity prototype from an earlier assignment
 
 The assignment 3 documentation shows the initial wireframe development from protoype to final
 Step by step
