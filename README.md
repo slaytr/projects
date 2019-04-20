@@ -1,22 +1,44 @@
-XYZ Management
+University of Auckland - CompSci 345
 ==============
 
-## A project of realising a low fidelity prototype
+#### Topic
 
-The project documentation shows the initial wireframe development from protoype to final
+Creating an interactive website for a hypothetical company named XYZ Management. The purpose of this project was to explore the methods and processes required to realize a project from the wireframe stage through to implementation. 
 
-Step by step preview
+Firstly, the wireframe designs of the website including examples of how a user may interact with a website feature
 
-![Image](/images/step1.png "step1")
+#### Prototype Wireframe Design
 
-![Image](/images/step2.png "step2")
+##### Step 1
 
-![Image](/images/step3.png "step3")
+<p align="center">
+    <img src="/images/step1.png" alt="step1">
+</p>
 
-Then an actual implementation of a feature on the website itself following the prototype
+##### Step 2
 
-![Image](/images/index.png "index")
+<p align="center">
+    <img src="/images/step2.png" alt="step2">
+</p>
 
-Colour Scheme
+##### Step 3
 
-![Image](/images/colours.png "colours")
+<p align="center">
+    <img src="/images/step3.png" alt="step3">
+</p>
+
+##### HTML preview
+
+<p align="center">
+    <img src="/images/index.png" alt="index">
+</p>
+
+#### Design Philosophy
+
+The reasons behind why I chose a particular colour scheme or collection of icons are documented in the project portfolio, however, here is a snippet of the Colour Scheme
+
+##### Colour Scheme
+
+<p align="center">
+    <img src="/images/colours.png" alt="colours">
+</p>
