@@ -2,9 +2,11 @@
 
 A simple React app that fetches stocks from world trading data API in real time and loads the stock details.
 
-Fetch API
-ReactJS
-Lifecycle methods
+* Fetch API
+* ReactJS
+* Lifecycle methods
+* React Bootstrap
+* Bootstrap
 
 ### `npm start`
 
