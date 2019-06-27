@@ -1,0 +1,49 @@
+AlphaVantage
+
+KEY
+MNOPROWNFMGBB4QJ
+
+SAMPLE API CALL 
+https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=MSFT&apikey=MNOPROWNFMGBB4QJ
+
+---
+
+World Trading Data
+
+KEY
+jkIeJHXgzdurMRj6FvfUk5a82siGSZ4ETOhFNNw04EE8mIG7e8r4yUQMDgqr
+
+SAMPLE API CALL
+https://api.worldtradingdata.com/api/v1/stock?symbol=AIR.NZ&api_token=jkIeJHXgzdurMRj6FvfUk5a82siGSZ4ETOhFNNw04EE8mIG7e8r4yUQMDgqr
+
+SAMPLE JSON RESPONSE
+{
+  "symbols_requested": 1,
+  "symbols_returned": 1,
+  "data": [
+    {
+      "symbol": "AIR.NZ",
+      "name": "Air New Zealand Limited",
+      "currency": "NZD",
+      "price": "2.70",
+      "price_open": "2.68",
+      "day_high": "2.70",
+      "day_low": "2.66",
+      "52_week_high": "3.41",
+      "52_week_low": "2.23",
+      "day_change": "0.01",
+      "change_pct": "0.56",
+      "close_yesterday": "2.68",
+      "market_cap": "3059657000",
+      "volume": "845781",
+      "volume_avg": "705614",
+      "shares": "1122810044",
+      "stock_exchange_long": "New Zealand Stock Exchange",
+      "stock_exchange_short": "NZX",
+      "timezone": "NZMT",
+      "timezone_name": "Pacific/Auckland",
+      "gmt_offset": "41400",
+      "last_trade_time": "2019-06-26 17:00:41"
+    }
+  ]
+}
